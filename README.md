@@ -18,7 +18,7 @@
 
 ## 下载
 
-👉 [本地下载](这里替换为你的下载链接)
+👉 [本地下载](https://github.com/imxcy/Open-in-a-new-tab-with-hyperlink)
 
 ---
 
