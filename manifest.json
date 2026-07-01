@@ -1,0 +1,1 @@
+{"manifest_version": 3, "name": "超链新标签页打开", "description": "强制所有超链接在新标签页中打开，无论是点击链接文本还是链接本身。", "version": "1.0.0", "author": "白逸", "homepage_url": "https://imxcy.cn", "icons": {"48": "icon48.png", "128": "icon128.png"}, "content_scripts": [{"matches": ["<all_urls>"], "js": ["content.js"], "run_at": "document_start", "all_frames": true}]}
