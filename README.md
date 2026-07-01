@@ -18,7 +18,7 @@
 
 ## 下载
 
-👉 [本地下载](https://github.com/imxcy/Open-in-a-new-tab-with-hyperlink)
+👉 [下载](https://github.com/imxcy/Open-in-a-new-tab-with-hyperlink/releases/tag/%E8%B6%85%E9%93%BE%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E6%89%93%E5%BC%80)
 
 ---
 
